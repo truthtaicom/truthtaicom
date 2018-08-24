@@ -20,6 +20,7 @@
     "gatsby-plugin-sass": "next",
     "gatsby-plugin-sharp": "next",
     "gatsby-plugin-typography": "next",
+    "gatsby-react-router-scroll": "^2.0.0-rc.0",
     "gatsby-remark-copy-linked-files": "next",
     "gatsby-remark-images": "next",
     "gatsby-remark-prismjs": "next",
